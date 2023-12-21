@@ -1,0 +1,16 @@
+{
+    "folders": [
+        {
+            "path": "front-end"
+        },
+        {
+            "path": "broker-service"
+        },
+        {
+            "path": "project"
+        }
+    ],
+    "settings": {
+        "makefile.makefilePath": "C:\\Users\\fkocyigi\\projects\\personal\\go-micro\\project"
+    }
+}
